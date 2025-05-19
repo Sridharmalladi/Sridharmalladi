@@ -1,4 +1,4 @@
-# Yo, I’m Sridhar Malladi
+# Yo, I’m Sridhar Malladi 🤘
 
 I’m a data, AI, and product enthusiast with a builder’s mindset. I'm driven by the challenge of turning messy problems into clear, usable solutions. With over three years of hands-on experience, I’ve worked across startups, research, and enterprise systems to craft intelligent, scalable products.
 
