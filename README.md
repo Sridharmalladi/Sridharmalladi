@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **data, AI, and product professional** with a builder's mindset, passionate about creating intelligent, scalable products that drive real-world value. With **4+ years of experience** across startups, research, and enterprise systems, I've delivered solutions that make a difference.
+I'm a data, AI, and product professional with a builder's mindset, passionate about creating intelligent, scalable products that drive real-world value. With over 4 years of experience across startups, research, and enterprise systems, I've delivered solutions that make a meaningful difference.
 
 ## 🛠️ Tech Stack
 
