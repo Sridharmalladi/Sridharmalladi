@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Ready+to+collaborate+on+exciting+projects!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div> 
+
 ---
 
 ## 🚀 About Me
@@ -57,9 +61,3 @@ I'm a **data, AI, and product professional** with a builder's mindset, passionat
   <img src="https://img.shields.io/badge/-AWS-6B7280?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-Google_Cloud-6B7280?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Ready+to+collaborate+on+exciting+projects!;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div> 
