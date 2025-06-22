@@ -3,12 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Ready+to+collaborate+on+exciting+projects!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div> 
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 ---
 
