@@ -16,7 +16,7 @@
 
 I'm a **data, AI, and product professional** with a builder's mindset, passionate about creating intelligent, scalable products that drive real-world value. With **4+ years of experience** across startups, research, and enterprise systems, I've delivered solutions that make a difference.
 
-**4+ years of Data and Product development**
+**Masters degree, 4+ years of Data and Product development**
 
 **Founder@[Scrollmiles](https://scrollmiles.site)**
 
@@ -68,37 +68,6 @@ I'm a **data, AI, and product professional** with a builder's mindset, passionat
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI-Powered Analytics Platform</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridharmalladi&repo=ai-analytics-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="100%" alt="AI Analytics Platform"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📊 Data Visualization Dashboard</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sridharmalladi&repo=data-viz-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="100%" alt="Data Viz Dashboard"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Ready+to+collaborate+on+exciting+projects!;Let's+build+something+amazing+together!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/sridharmalladi/sridharmalladi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div> 
