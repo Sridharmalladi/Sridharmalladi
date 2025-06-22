@@ -15,44 +15,26 @@ I'm a Data, AI, and Product professional with a builder's mindset, passionate ab
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-6B7280?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-SQL-6B7280?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Java-6B7280?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-6B7280?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
-### 🤖 Machine Learning & AI
-<div align="center">
-  <img src="https://img.shields.io/badge/-scikit--learn-6B7280?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/-TensorFlow-6B7280?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-6B7280?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-OpenAI-6B7280?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/-LangChain-6B7280?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-</div>
-
-### 🎨 Product Development
-<div align="center">
-  <img src="https://img.shields.io/badge/-Figma-6B7280?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Firebase-6B7280?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Supabase-6B7280?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-Streamlit-6B7280?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-</div>
-
-### 📊 Data & Visualization
-<div align="center">
-  <img src="https://img.shields.io/badge/-Pandas-6B7280?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-6B7280?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-Power_BI-6B7280?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-Tableau-6B7280?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-</div>
-
-### ☁️ DevOps & Infrastructure
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-6B7280?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Docker-6B7280?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-6B7280?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/-AWS-6B7280?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-6B7280?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-</div>
