@@ -12,13 +12,7 @@
 
 ## 🚀 About Me
 
-> *"Transforming complex problems into clear, impactful solutions"*
-
 I'm a **data, AI, and product professional** with a builder's mindset, passionate about creating intelligent, scalable products that drive real-world value. With **4+ years of experience** across startups, research, and enterprise systems, I've delivered solutions that make a difference.
-
-**Masters degree, 4+ years of Data and Product development**
-
-**Founder@[Scrollmiles](https://scrollmiles.site)**
 
 ---
 
@@ -26,44 +20,44 @@ I'm a **data, AI, and product professional** with a builder's mindset, passionat
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-6B7280?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-6B7280?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-6B7280?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-6B7280?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Python-6B7280?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-SQL-6B7280?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Java-6B7280?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-6B7280?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 </div>
 
 ### 🤖 Machine Learning & AI
 <div align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-6B7280?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-6B7280?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-6B7280?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenAI-6B7280?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-6B7280?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/-scikit--learn-6B7280?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/-TensorFlow-6B7280?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-6B7280?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-OpenAI-6B7280?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-LangChain-6B7280?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 </div>
 
 ### 🎨 Product Development
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-6B7280?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Firebase-6B7280?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-6B7280?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Streamlit-6B7280?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/-Figma-6B7280?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Firebase-6B7280?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Supabase-6B7280?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-Streamlit-6B7280?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </div>
 
 ### 📊 Data & Visualization
 <div align="center">
-  <img src="https://img.shields.io/badge/Pandas-6B7280?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-6B7280?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-6B7280?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-6B7280?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/-Pandas-6B7280?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-6B7280?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-Power_BI-6B7280?style=flat-square&logo=power-bi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-Tableau-6B7280?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
 </div>
 
 ### ☁️ DevOps & Infrastructure
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-6B7280?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-6B7280?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-6B7280?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/AWS-6B7280?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-6B7280?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/-Git-6B7280?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Docker-6B7280?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-6B7280?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-AWS-6B7280?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-6B7280?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </div>
 
 ---
