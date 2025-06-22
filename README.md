@@ -16,7 +16,7 @@
 
 I'm a **data, AI, and product professional** with a builder's mindset, passionate about creating intelligent, scalable products that drive real-world value. With **4+ years of experience** across startups, research, and enterprise systems, I've delivered solutions that make a difference.
 
-**Masters degree, 4+ years of Data and Product development**
+**4+ years of Data and Product development**
 
 **Founder@[Scrollmiles](https://scrollmiles.site)**
 
