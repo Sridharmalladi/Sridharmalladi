@@ -6,4 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=for-the-badge&color=0077B5&label=Profile+Views&labelColor=1e90ff" alt="Profile Views" />
 </div>
 
-Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
+<div align="center" style="margin: 30px 0;">
+  <p style="font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 20px; font-weight: 400; color: #333; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+    Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
+  </p>
+</div>
