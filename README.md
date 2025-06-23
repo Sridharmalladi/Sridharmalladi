@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <h2 style="font-family: 'Fira Code', monospace; font-weight: 500; color: #333;">Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.</h2>
+  <h2 style="font-family: 'Fira Code', monospace; font-weight: 300; color: #333;">Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.</h2>
 </div>
 
 <div align="center">
