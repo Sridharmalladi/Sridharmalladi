@@ -5,8 +5,6 @@
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/Profile_Views-103-00D4FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-brightgreen?style=for-the-badge&logo=checkmark&logoColor=white&labelColor=0D1117" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Global_Remote-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=0D1117" alt="Location" />
 </div>
 
 Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
