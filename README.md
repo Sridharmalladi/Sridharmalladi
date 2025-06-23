@@ -7,4 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=for-the-badge&color=0077B5&label=Profile+Views&labelColor=1e90ff" alt="Profile Views" />
 </div>
 
+
+
 Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
