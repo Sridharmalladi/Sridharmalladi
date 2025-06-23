@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="margin: 40px 0; padding: 30px 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
-  <p style="font-family: 'Fira Code', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace; font-size: 18px; font-weight: 400; color: #2c3e50; line-height: 1.6; max-width: 900px; margin: 0 auto;">
+  <p style="font-family: 'Fira Code', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace; font-size: 24px; font-weight: 400; color: #2c3e50; line-height: 1.6; max-width: 900px; margin: 0 auto;">
     Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
   </p>
 </div>
