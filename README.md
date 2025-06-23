@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 400; color: #2c3e50; font-size: 24px; line-height: 1.4; letter-spacing: 0.5px;">Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.</h2>
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 400; color: #2c3e50; font-size: 24px; line-height: 1.4; letter-spacing: 0.8px;">Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.</h2>
 </div>
 
 <div align="center">
