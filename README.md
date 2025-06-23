@@ -5,4 +5,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-I'm a Data, AI, and Product professional with a builder's mindset, passionate about creating intelligent, scalable products that drive real-world value. With over 4 years of experience across startups, research, and enterprise systems, I've delivered solutions that make a meaningful difference.
+
+Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
