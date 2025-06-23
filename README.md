@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Profile_Views-103-00D4FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=for-the-badge&color=0077B5&label=Profile+Views&labelColor=1e90ff" alt="Profile Views" />
 </div>
 
 Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
