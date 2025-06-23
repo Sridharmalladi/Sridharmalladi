@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=sridharmalladi&style=for-the-badge&color=0077B5&label=Profile+Views&labelColor=1e90ff" alt="Profile Views" />
 </div>
 
-<div align="center" style="margin: 40px 0; padding: 30px 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-family: 'Fira Code'; font-size: 24px; font-weight: 500; color: #00D4FF; line-height: 1.4; max-width: 900px; margin: 0 auto; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.
-  </h2>
+<div align="center" style="margin: 40px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=2c3e50&center=true&vCenter=true&width=900&height=80&lines=Data%2C+AI+%26+Product+professional+with+4%2B+years+of+experience;building+intelligent%2C+scalable+solutions+that+deliver;real-world+impact." alt="Description" />
 </div>
