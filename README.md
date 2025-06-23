@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <h2>Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.</h2>
+  <h2.5>Data, AI & Product professional with 4+ years of experience building intelligent, scalable solutions that deliver real-world impact.</h2.5>
 </div>
 
 <div align="center">
