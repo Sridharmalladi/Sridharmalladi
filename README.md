@@ -1,29 +1,23 @@
 ```console
 $ whoami
-sridhar malladi — builds small, sharp AI tools
+sridhar — i build small AI tools that kill my own busywork
 
-$ cat focus.txt
-RAG · agents · MCP servers · and the data plumbing behind them
-python-first · keeps the LLM out of the parts that should stay deterministic
+$ what i'm into right now
+taking stuff that's annoying and repetitive and turning it into an app:
+comparing RAG setups instead of guessing, tailoring resumes to a job post,
+scoring startup jobs so i stop doom-scrolling listings.
 
-$ ls shipping/
+$ tools i'm comfy with
+python · langchain · MCP · n8n · streamlit · supabase · pytorch · openai + claude APIs
 ```
 
-### Shipping now
+### Stuff I'm genuinely excited about
 
-- **[RAGLens](https://github.com/Sridharmalladi/RAGLens)** — compare 4 RAG strategies side-by-side, with live LLM-as-judge scoring and a 7-day monitoring dashboard.
-- **[jobfinddaily](https://github.com/Sridharmalladi/jobfinddaily)** — MCP server for Claude Desktop that discovers, filters, and scores remote AI/ML startup jobs. Filtering is deterministic regex — no LLM in the data pipeline.
-- **[jd2resume](https://github.com/Sridharmalladi/jd2resume_n8n)** — n8n workflow: paste a job description, get back a one-page tailored PDF resume.
-
----
-
-[website](https://sridharmalladi.online) · [linkedin](https://www.linkedin.com/in/sridharmalladi) · [github](https://github.com/Sridharmalladi)
-
-<sub>45 repos and counting · open to AI/ML roles</sub>
+- **RAGLens** — picking a RAG strategy on vibes always bugged me, so this runs 4 of them side-by-side and lets an LLM judge which one actually answers better. Ships with a 7-day monitoring dashboard.
+- **jobfinddaily** — an MCP server that drops fresh remote AI/ML startup jobs straight into Claude Desktop and scores them. The filtering is plain regex on purpose — no LLM deciding what I get to see.
+- **jd2resume** — paste a job description, get back a tight one-page PDF resume tuned to it. Wired up in n8n so it just runs.
 
 <!--
-  TODO before this is fully yours:
-  - confirm the linkedin URL above (guessed from your username)
-  - drop "open to AI/ML roles" if not true
-  - add an email line if you want one
+  links go here once I add them:
+  website · linkedin · x · email
 -->
