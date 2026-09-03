@@ -1,18 +1,17 @@
-```console
-$ whoami
-sridhar — i build small AI tools that kill my own busywork
+### Hi, I'm Sridhar
 
-$ what i do
-take something annoying and repetitive, turn it into an app, use it every day
+I build small AI tools that handle repetitive work I don't want to do by hand.
 
-$ what excites me
-watching a boring 30-minute task collapse into one click
-agents and small models that are actually useful, not just demos
-the moment a rough prototype suddenly feels real
+**What I do**
+I take a task that is slow and repetitive, build a simple app for it, and use that app every day.
 
-$ tools i'm comfy with
-python · langchain · MCP · n8n · streamlit · supabase · pytorch · openai + claude APIs
-```
+**What I like about it**
+- Turning a 30-minute task into a single click
+- Agents and small models that do real work, not just demos
+- The point where a rough prototype starts to feel like a real product
+
+**Tools I use**
+Python · LangChain · MCP · n8n · Streamlit · Supabase · PyTorch · OpenAI and Claude APIs
 
 <!--
   links go here once I add them:
