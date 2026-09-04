@@ -13,7 +13,8 @@ I take a task that is slow and repetitive, build a simple app for it, and use th
 **Tools I use**
 Python · LangChain · MCP · n8n · Streamlit · Supabase · PyTorch · OpenAI and Claude APIs
 
-<!--
-  links go here once I add them:
-  website · linkedin · x · email
--->
+**Links**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhar-malladi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sridharmalladi.online)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sridharmalladi)
